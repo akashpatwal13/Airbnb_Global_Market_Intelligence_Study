@@ -1,6 +1,8 @@
 
 Project: Global Airbnb Market Audit & Regulatory Risk Assessment
+
 A data-driven audit of the short-term rental (STR) landscape across five global hubs (London, Bangkok, Rome, Barcelona, and Amsterdam). This project translates raw listing data into actionable business intelligence, specifically focusing on market professionalization, geospatial density, and institutional regulatory risk.
+
 [Strategic Executive Report](https://drive.google.com/file/d/1GBnCux8-K7lEmWtMUHgkv2JYN6Ccbgz1/view?usp=sharing)
  
 Technical Documentation
@@ -50,5 +52,4 @@ To install all dependencies, execute:
 pip install -r requirements.txt
 
 (d) DB Browser for sqlite
-<img width="451" height="660" alt="image" src="https://github.com/user-attachments/assets/c3fd8954-b5b9-4062-987c-2416feb2978e" />
 
