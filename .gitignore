@@ -1,1 +1,35 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
 
+# --- Python & Jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+.env
+
+# --- VS Code & IDEs ---
+.vscode/
+.idea/
+
+# --- Project Data & Databases ---
+# Exclude raw data and large spreadsheets
+data/raw/
+*.csv
+*.xlsx
+*.xls
+
+# Exclude local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Exclude reports/exports (optional, keep if you want to track PDF/Docx)
+# reports/*.pdf
+# reports/*.docx
+
+# --- Logs ---
+*.log
