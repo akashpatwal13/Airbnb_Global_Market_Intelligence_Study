@@ -42,7 +42,9 @@ Repository Structure
 7.	requirements.txt lists the Python libraries required to run the analysis.
  
 Environment and Dependencies
-The project was developed in a Python 3.x environment. The following libraries are required to replicate the analysis:
+
+The project was developed in a Python environment. The following libraries are required to replicate the analysis:
+
 (a) Data Manipulation: pandas, numpy
 
 (b) Visualization: matplotlib, seaborn
