@@ -3,7 +3,8 @@ Project: Global Airbnb Market Audit & Regulatory Risk Assessment
 
 A data-driven audit of the short-term rental (STR) landscape across five global hubs (London, Bangkok, Rome, Barcelona, and Amsterdam). This project translates raw listing data into actionable business intelligence, specifically focusing on market professionalization, geospatial density, and institutional regulatory risk.
 
-[Strategic Executive Report](https://drive.google.com/file/d/1GBnCux8-K7lEmWtMUHgkv2JYN6Ccbgz1/view?usp=sharing)
+While the associated [Strategic Executive Report](https://drive.google.com/file/d/1GBnCux8-K7lEmWtMUHgkv2JYN6Ccbgz1/view?usp=sharing) details the business implications, this document outlines the technical methodology and rigor used to derive those insights.
+
  
 Technical Documentation
 This repository contains a data science workflow designed to quantify market health and competitive threat. While the associated Strategic Executive Report details the business implications, this document outlines the technical methodology, cleaning rigor, and analytical framework used to derive those insights.
